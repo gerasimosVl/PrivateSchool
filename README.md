@@ -1,6 +1,6 @@
 # PrivateSchool
-Coding bootcamp project (console app)<br/>
-Required to build a command prompt (console) application.<br/>
+Coding bootcamp project<br/>
+Command prompt (console) application.<br/>
 The application ask from the command prompt to input data to allthe entities and it should give the option to add more than one entry at a time.<br/>
 If the user decides not to type any data,the program should use synthetic data.<br/>
 Also, program output the following:<br/>
